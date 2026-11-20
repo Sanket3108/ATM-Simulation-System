@@ -1,5 +1,7 @@
 ATM Simulation System in C
-*** Description ***
+
+Description 
+
 A menu-driven ATM simulation program developed in C. The program performs card validation, password authentication, balance checking, credit and debit transactions.
 
 *** Features ***
